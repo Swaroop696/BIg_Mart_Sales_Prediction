@@ -1,6 +1,6 @@
 # BigMart Sales Prediction Analysis - Regression
 
-![Screenshot 2023-12-21 002511](https://github.com/Swaroop696/streamlit-cancer-predict/assets/80799982/fef5da83-ec4f-471a-8e3b-903e1e918e09)
+![https://github.com/Swaroop696/ML/blob/main/Mart_Analysis_Image.png](https://github.com/Swaroop696/streamlit-cancer-predict/assets/80799982/fef5da83-ec4f-471a-8e3b-903e1e918e09)
 
 # Dataset Information
 
