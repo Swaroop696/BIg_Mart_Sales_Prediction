@@ -1,6 +1,6 @@
 # BigMart Sales Prediction Analysis - Regression
 
-![Mart_Analysis_Image.png]
+![Mart_Analysis_Image]()
 
 # Dataset Information
 
