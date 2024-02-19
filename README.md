@@ -1,7 +1,5 @@
 # BigMart Sales Prediction Analysis - Regression
 
-**Complete Video Tutorial:** https://youtu.be/CD58mco2XqA
-
 # Dataset Information
 
 The data scientists at BigMart have collected 2013 sales data for 1559 products across 10 stores in different cities. Also, certain attributes of each product and store have been defined. The aim is to build a predictive model and find out the sales of each product at a particular store.
@@ -24,7 +22,7 @@ Outlet_Location_Type | The type of city in which the store is located
 Outlet_Type | Whether the outlet is just a grocery store or some sort of supermarket
 Item_Outlet_Sales | Sales of the product in the particulat store. This is the outcome variable to be predicted.
 
-**Download link:** https://www.kaggle.com/devashish0507/big-mart-sales-prediction
+**Download link:** https://www.kaggle.com/datasets/brijbhushannanda1979/bigmart-sales-data
 
 # Libraries
 
