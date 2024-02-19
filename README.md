@@ -1,6 +1,6 @@
 # BigMart Sales Prediction Analysis - Regression
 
-![Mart_Analysis_Image]()
+![Mart_Analysis_Image](https://github.com/Swaroop696/ML/blob/main/Mart_Analysis_Image.png)
 
 # Dataset Information
 
