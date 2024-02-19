@@ -39,7 +39,6 @@ Item_Outlet_Sales | Sales of the product in the particulat store. This is the ou
 <li>Decision Tree
 <li>Random Forest
 <li>Extra Tress
-  
-**Mean Squared Error:** 0.28
+<li>XGBoost Regression
 
 **Note:** The Error metric is in log values. To convert to original values, use exponentiation.
