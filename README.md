@@ -1,5 +1,7 @@
 # BigMart Sales Prediction Analysis - Regression
 
+![Screenshot 2023-12-21 002511](https://github.com/Swaroop696/streamlit-cancer-predict/assets/80799982/fef5da83-ec4f-471a-8e3b-903e1e918e09)
+
 # Dataset Information
 
 The data scientists at BigMart have collected 2013 sales data for 1559 products across 10 stores in different cities. Also, certain attributes of each product and store have been defined. The aim is to build a predictive model and find out the sales of each product at a particular store.
